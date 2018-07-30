@@ -1,2 +1,39 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>npm</title>
+</head>
+<body>
+  <navbar>
+  </navbar>
+  <ul>
+  </ul>
+  <header>
+    <heading>
+    </heading>
+  </header>
+  <section>
+    <heading>
+    </heading>
+    <ul>
+    </ul>
+  </section>
+  <section>
+    <heading>
+    </heading>
+  </section>
+  <section>
+    <heading>
+    </heading>
+    <div>
+    </div>
+    <div>
+    </div>
+    <div>
+    </div>
+  </section>
+</body>
+</html>
